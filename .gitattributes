@@ -1,0 +1,7 @@
+LW filter=lfs diff=lfs merge=lfs -text
+PDF filter=lfs diff=lfs merge=lfs -text
+add filter=lfs diff=lfs merge=lfs -text
+mark filter=lfs diff=lfs merge=lfs -text
+tool filter=lfs diff=lfs merge=lfs -text
+v1.0.exe filter=lfs diff=lfs merge=lfs -text
+LW[[:space:]]PDF[[:space:]]add[[:space:]]mark[[:space:]]tool[[:space:]]v1.0.exe filter=lfs diff=lfs merge=lfs -text
