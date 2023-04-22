@@ -4,7 +4,8 @@ Help Document
 ======
   本软件功能是为PDF文档添加标签
   
-  下载地址 LW PDF add mark tool v1.0.rar
+  下载地址 LW PDF add mark tool v1.0.rar_
+.. _LW PDF add mark tool v1.0.rar: https://www.python.org/
 
   
 
