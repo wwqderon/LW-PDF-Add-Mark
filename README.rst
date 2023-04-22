@@ -3,7 +3,8 @@ Help Document
 欢迎
 ======
   本软件功能是为PDF文档添加标签
-  下载地址https://github.com/wwqderon/LW-PDF-Add-Mark/blob/master/LW%20PDF%20add%20mark%20tool%20v1.0.rar
+  
+  下载地址 LW PDF add mark tool v1.0.rar
 
   
 
